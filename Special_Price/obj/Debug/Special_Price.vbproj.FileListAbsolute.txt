@@ -1,0 +1,159 @@
+D:\Project\Sodamco\Special_Price\bin\Debug\Special_Price.exe
+D:\Project\Sodamco\Special_Price\bin\Debug\Special_Price.pdb
+D:\Project\Sodamco\Special_Price\bin\Debug\Special_Price.xml
+D:\Project\Sodamco\Special_Price\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\Sodamco\Special_Price\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\Sodamco\Special_Price\bin\Debug\Interop.Scripting.dll
+D:\Project\Sodamco\Special_Price\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Sodamco\Special_Price\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\Sodamco\Special_Price\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\Sodamco\Special_Price\obj\Debug\Interop.Scripting.dll
+D:\Project\Sodamco\Special_Price\obj\Debug\Special_Price.vbproj.ResolveComReference.cache
+D:\Project\Sodamco\Special_Price\obj\Debug\Special_Price.Resources.resources
+D:\Project\Sodamco\Special_Price\obj\Debug\ResGen.read.1.tlog
+D:\Project\Sodamco\Special_Price\obj\Debug\ResGen.write.1.tlog
+D:\Project\Sodamco\Special_Price\obj\Debug\Special_Price.exe
+D:\Project\Sodamco\Special_Price\obj\Debug\Special_Price.xml
+D:\Project\Sodamco\Special_Price\obj\Debug\Special_Price.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Special_Price\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Special_Price\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Special_Price\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Special_Price\obj\Debug\Special_Price.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Special_Price\obj\Debug\Special_Price.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Special_Price\obj\Debug\Special_Price.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Special_Price\obj\Debug\Special_Price.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Special_Price\bin\Debug\Special_Price.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Special_Price\bin\Debug\Special_Price.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Special_Price\bin\Debug\Special_Price.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Special_Price\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Special_Price\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Special_Price\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Special_Price\obj\Debug\Special_Price.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Special_Price\obj\Debug\Special_Price.vbproj.GenerateResource.Cache
+D:\Project\Special_Price\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\Special_Price\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\Special_Price\obj\Debug\Interop.Scripting.dll
+D:\Project\Special_Price\obj\Debug\Special_Price.vbproj.ResolveComReference.cache
+D:\Project\Special_Price\obj\Debug\Special_Price.exe
+D:\Project\Special_Price\obj\Debug\Special_Price.xml
+D:\Project\Special_Price\obj\Debug\Special_Price.pdb
+D:\Project\Special_Price\bin\Debug\Special_Price.exe
+D:\Project\Special_Price\bin\Debug\Special_Price.pdb
+D:\Project\Special_Price\bin\Debug\Special_Price.xml
+D:\Project\Special_Price\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\Special_Price\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\Special_Price\bin\Debug\Interop.Scripting.dll
+D:\Project\Special_Price\obj\Debug\Special_Price.Resources.resources
+D:\Project\Special_Price\obj\Debug\Special_Price.vbproj.GenerateResource.Cache
+D:\Project\procons4it\Sodamco\Special_Price\bin\Debug\Special_Price.exe
+D:\Project\procons4it\Sodamco\Special_Price\bin\Debug\Special_Price.pdb
+D:\Project\procons4it\Sodamco\Special_Price\bin\Debug\Special_Price.xml
+D:\Project\procons4it\Sodamco\Special_Price\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\Sodamco\Special_Price\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\Sodamco\Special_Price\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\Sodamco\Special_Price\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\Sodamco\Special_Price\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\Sodamco\Special_Price\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\Sodamco\Special_Price\obj\Debug\Special_Price.vbproj.ResolveComReference.cache
+D:\Project\procons4it\Sodamco\Special_Price\obj\Debug\Special_Price.Resources.resources
+D:\Project\procons4it\Sodamco\Special_Price\obj\Debug\Special_Price.vbproj.GenerateResource.Cache
+D:\Project\procons4it\Sodamco\Special_Price\obj\Debug\Special_Price.exe
+D:\Project\procons4it\Sodamco\Special_Price\obj\Debug\Special_Price.xml
+D:\Project\procons4it\Sodamco\Special_Price\obj\Debug\Special_Price.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150608_Special_Price\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150608_Special_Price\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150608_Special_Price\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150608_Special_Price\obj\Debug\Special_Price.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150608_Special_Price\obj\Debug\Special_Price.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150608_Special_Price\obj\Debug\Special_Price.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150608_Special_Price\obj\Debug\Special_Price.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150608_Special_Price\bin\Debug\Special_Price.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150608_Special_Price\bin\Debug\Special_Price.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150608_Special_Price\bin\Debug\Special_Price.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150608_Special_Price\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150608_Special_Price\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150608_Special_Price\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150608_Special_Price\obj\Debug\Special_Price.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150608_Special_Price\obj\Debug\Special_Price.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150610_Special_Price\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150610_Special_Price\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150610_Special_Price\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150610_Special_Price\obj\Debug\Special_Price.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150610_Special_Price\obj\Debug\Special_Price.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150610_Special_Price\obj\Debug\Special_Price.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150610_Special_Price\bin\Debug\Special_Price.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150610_Special_Price\bin\Debug\Special_Price.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150610_Special_Price\bin\Debug\Special_Price.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150610_Special_Price\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150610_Special_Price\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150610_Special_Price\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150610_Special_Price\obj\Debug\Special_Price.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150610_Special_Price\obj\Debug\Special_Price.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150610_Special_Price\obj\Debug\Special_Price.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150613_Special_Price\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150613_Special_Price\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150613_Special_Price\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150613_Special_Price\obj\Debug\Special_Price.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150613_Special_Price\obj\Debug\Special_Price.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150613_Special_Price\obj\Debug\Special_Price.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150613_Special_Price\obj\Debug\Special_Price.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150613_Special_Price\bin\Debug\Special_Price.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150613_Special_Price\bin\Debug\Special_Price.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150613_Special_Price\bin\Debug\Special_Price.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150613_Special_Price\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150613_Special_Price\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150613_Special_Price\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150613_Special_Price\obj\Debug\Special_Price.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150613_Special_Price\obj\Debug\Special_Price.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150806_Special_Price\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150806_Special_Price\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150806_Special_Price\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150806_Special_Price\obj\Debug\Special_Price.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150806_Special_Price\obj\Debug\Special_Price.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150806_Special_Price\obj\Debug\Special_Price.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150806_Special_Price\obj\Debug\Special_Price.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150806_Special_Price\bin\Debug\Special_Price.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150806_Special_Price\bin\Debug\Special_Price.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150806_Special_Price\bin\Debug\Special_Price.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150806_Special_Price\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150806_Special_Price\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150806_Special_Price\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150806_Special_Price\obj\Debug\Special_Price.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20150806_Special_Price\obj\Debug\Special_Price.vbproj.GenerateResource.Cache
+C:\Users\adminsap\Desktop\20150806_Special_Price\20150806_Special_Price\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\adminsap\Desktop\20150806_Special_Price\20150806_Special_Price\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\adminsap\Desktop\20150806_Special_Price\20150806_Special_Price\obj\Debug\Interop.Scripting.dll
+C:\Users\adminsap\Desktop\20150806_Special_Price\20150806_Special_Price\obj\Debug\Special_Price.vbproj.ResolveComReference.cache
+C:\Users\adminsap\Desktop\20150806_Special_Price\20150806_Special_Price\obj\Debug\Special_Price.exe
+C:\Users\adminsap\Desktop\20150806_Special_Price\20150806_Special_Price\obj\Debug\Special_Price.xml
+C:\Users\adminsap\Desktop\20150806_Special_Price\20150806_Special_Price\obj\Debug\Special_Price.pdb
+C:\Users\adminsap\Desktop\20150806_Special_Price\20150806_Special_Price\bin\Debug\Special_Price.exe
+C:\Users\adminsap\Desktop\20150806_Special_Price\20150806_Special_Price\bin\Debug\Special_Price.pdb
+C:\Users\adminsap\Desktop\20150806_Special_Price\20150806_Special_Price\bin\Debug\Special_Price.xml
+C:\Users\adminsap\Desktop\20150806_Special_Price\20150806_Special_Price\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\adminsap\Desktop\20150806_Special_Price\20150806_Special_Price\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\adminsap\Desktop\20150806_Special_Price\20150806_Special_Price\bin\Debug\Interop.Scripting.dll
+C:\Users\adminsap\Desktop\20150806_Special_Price\20150806_Special_Price\obj\Debug\Special_Price.Resources.resources
+C:\Users\adminsap\Desktop\20150806_Special_Price\20150806_Special_Price\obj\Debug\Special_Price.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Deliveires\20180806_Special Price 1.0.8\20150806_Special_Price\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Deliveires\20180806_Special Price 1.0.8\20150806_Special_Price\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Deliveires\20180806_Special Price 1.0.8\20150806_Special_Price\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Deliveires\20180806_Special Price 1.0.8\20150806_Special_Price\obj\Debug\Special_Price.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Deliveires\20180806_Special Price 1.0.8\20150806_Special_Price\obj\Debug\Special_Price.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Deliveires\20180806_Special Price 1.0.8\20150806_Special_Price\obj\Debug\Special_Price.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\Deliveires\20180806_Special Price 1.0.8\20150806_Special_Price\obj\Debug\Special_Price.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20151221_Special_Price\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20151221_Special_Price\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20151221_Special_Price\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20151221_Special_Price\obj\Debug\Special_Price.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20151221_Special_Price\obj\Debug\Special_Price.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20151221_Special_Price\obj\Debug\Special_Price.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20151221_Special_Price\obj\Debug\Special_Price.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20151221_Special_Price\bin\Debug\Special_Price.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20151221_Special_Price\bin\Debug\Special_Price.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20151221_Special_Price\bin\Debug\Special_Price.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20151221_Special_Price\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20151221_Special_Price\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20151221_Special_Price\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20151221_Special_Price\obj\Debug\Special_Price.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20151221_Special_Price\obj\Debug\Special_Price.vbproj.GenerateResource.Cache
