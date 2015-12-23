@@ -157,3 +157,18 @@ G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\S
 G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20151221_Special_Price\bin\Debug\Interop.Scripting.dll
 G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20151221_Special_Price\obj\Debug\Special_Price.Resources.resources
 G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\Special Price\20151221_Special_Price\obj\Debug\Special_Price.vbproj.GenerateResource.Cache
+F:\Procons_Github_Projects\Other Addons\Sodamco\Speical Price\Special_Price\obj\Debug\Interop.SAPbobsCOM.dll
+F:\Procons_Github_Projects\Other Addons\Sodamco\Speical Price\Special_Price\obj\Debug\Interop.SAPbouiCOM.dll
+F:\Procons_Github_Projects\Other Addons\Sodamco\Speical Price\Special_Price\obj\Debug\Interop.Scripting.dll
+F:\Procons_Github_Projects\Other Addons\Sodamco\Speical Price\Special_Price\obj\Debug\Special_Price.vbproj.ResolveComReference.cache
+F:\Procons_Github_Projects\Other Addons\Sodamco\Speical Price\Special_Price\obj\Debug\Special_Price.exe
+F:\Procons_Github_Projects\Other Addons\Sodamco\Speical Price\Special_Price\obj\Debug\Special_Price.xml
+F:\Procons_Github_Projects\Other Addons\Sodamco\Speical Price\Special_Price\obj\Debug\Special_Price.pdb
+F:\Procons_Github_Projects\Other Addons\Sodamco\Speical Price\Special_Price\bin\Debug\Special_Price.exe
+F:\Procons_Github_Projects\Other Addons\Sodamco\Speical Price\Special_Price\bin\Debug\Special_Price.pdb
+F:\Procons_Github_Projects\Other Addons\Sodamco\Speical Price\Special_Price\bin\Debug\Special_Price.xml
+F:\Procons_Github_Projects\Other Addons\Sodamco\Speical Price\Special_Price\bin\Debug\Interop.SAPbobsCOM.dll
+F:\Procons_Github_Projects\Other Addons\Sodamco\Speical Price\Special_Price\bin\Debug\Interop.SAPbouiCOM.dll
+F:\Procons_Github_Projects\Other Addons\Sodamco\Speical Price\Special_Price\bin\Debug\Interop.Scripting.dll
+F:\Procons_Github_Projects\Other Addons\Sodamco\Speical Price\Special_Price\obj\Debug\Special_Price.Resources.resources
+F:\Procons_Github_Projects\Other Addons\Sodamco\Speical Price\Special_Price\obj\Debug\Special_Price.vbproj.GenerateResource.Cache

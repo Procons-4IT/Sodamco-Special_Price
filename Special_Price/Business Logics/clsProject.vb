@@ -43,10 +43,10 @@ Public Class clsProject
                                 'End If
                             Case SAPbouiCOM.BoEventTypes.et_ITEM_PRESSED
                                 If pVal.ItemUID = "1" Then
-                                    If Not validate(oForm) Then
-                                        BubbleEvent = False
-                                        Exit Sub
-                                    End If
+                                    'If Not validate(oForm) Then
+                                    '    BubbleEvent = False
+                                    '    Exit Sub
+                                    'End If
                                 End If
                             Case SAPbouiCOM.BoEventTypes.et_DOUBLE_CLICK
                                 If pVal.ItemUID = "3" And (pVal.ColUID = "U_CardCode" Or pVal.ColUID = "U_CardName") And pVal.Row > 0 Then
@@ -268,40 +268,41 @@ Public Class clsProject
         End Try
     End Sub
 
-    Private Function validate(ByVal oForm As SAPbouiCOM.Form)
+    Private Function validate(ByVal oForm As SAPbouiCOM.Form) As Boolean
+        Return True
         Dim _retVal As Boolean = True
         Try
             oMatrix = oForm.Items.Item("3").Specific
-            For index As Integer = 1 To oMatrix.RowCount
-                '  Dim oBP As SAPbobsCOM.BusinessPartners
-                Dim oTest As SAPbobsCOM.Recordset
-                Dim strCustomer As String = oMatrix.Columns.Item("U_CardCode").Cells.Item(index).Specific.value
-                Dim strProject As String = oMatrix.Columns.Item("PrjCode").Cells.Item(index).Specific.value
-                oTest = oApplication.Company.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
-                oTest.DoQuery("Select * from OCRD where CardCode='" & strCustomer & "'")
-                If oTest.RecordCount > 0 Then
-                    If oTest.Fields.Item("Currency").Value <> "##" Then
-                        If (oTest.Fields.Item("Currency").Value <> oMatrix.Columns.Item("U_Currency").Cells.Item(index).Specific.value) Then
-                            oApplication.Utilities.Message("Error : Project : " & strProject & " -->Selected Currency : " & oApplication.Utilities.getMatrixValues(oMatrix, "U_Currency", index) & ": not matching with Customer :" & strCustomer & " : Currency : " & oTest.Fields.Item("Currency").Value, SAPbouiCOM.BoStatusBarMessageType.smt_Error)
-                            _retVal = False
-                            Exit For
-                        End If
-                    End If
-                End If
-                'oBP = oApplication.Company.GetBusinessObject(SAPbobsCOM.BoObjectTypes.oBusinessPartners)
-                'Dim strCustomer As String = oMatrix.Columns.Item("U_CardCode").Cells.Item(index).Specific.value
-                'If oBP.GetByKey(oMatrix.Columns.Item("U_CardCode").Cells.Item(index).Specific.value) Then
-                '    If oMatrix.Columns.Item("U_Currency").Cells.Item(index).Specific.value <> "" Then
-                '        If oBP.Currency <> "##" Then
-                '            If oMatrix.Columns.Item("U_Currency").Cells.Item(index).Specific.value <> oBP.Currency Then
-                '                oApplication.Utilities.Message("Default Currency not matching for ...:" + strCustomer, SAPbouiCOM.BoStatusBarMessageType.smt_Error)
-                '                _retVal = False
-                '                Exit For
-                '            End If
-                '        End If
-                '    End If
-                'End If
-            Next
+            'For index As Integer = 1 To oMatrix.RowCount
+            '    '  Dim oBP As SAPbobsCOM.BusinessPartners
+            '    Dim oTest As SAPbobsCOM.Recordset
+            '    Dim strCustomer As String = oMatrix.Columns.Item("U_CardCode").Cells.Item(index).Specific.value
+            '    Dim strProject As String = oMatrix.Columns.Item("PrjCode").Cells.Item(index).Specific.value
+            '    oTest = oApplication.Company.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset)
+            '    oTest.DoQuery("Select * from OCRD where CardCode='" & strCustomer & "'")
+            '    If oTest.RecordCount > 0 Then
+            '        If oTest.Fields.Item("Currency").Value <> "##" Then
+            '            If (oTest.Fields.Item("Currency").Value <> oMatrix.Columns.Item("U_Currency").Cells.Item(index).Specific.value) Then
+            '                oApplication.Utilities.Message("Error : Project : " & strProject & " -->Selected Currency : " & oApplication.Utilities.getMatrixValues(oMatrix, "U_Currency", index) & ": not matching with Customer :" & strCustomer & " : Currency : " & oTest.Fields.Item("Currency").Value, SAPbouiCOM.BoStatusBarMessageType.smt_Error)
+            '                _retVal = False
+            '                Exit For
+            '            End If
+            '        End If
+            '    End If
+            '    'oBP = oApplication.Company.GetBusinessObject(SAPbobsCOM.BoObjectTypes.oBusinessPartners)
+            '    'Dim strCustomer As String = oMatrix.Columns.Item("U_CardCode").Cells.Item(index).Specific.value
+            '    'If oBP.GetByKey(oMatrix.Columns.Item("U_CardCode").Cells.Item(index).Specific.value) Then
+            '    '    If oMatrix.Columns.Item("U_Currency").Cells.Item(index).Specific.value <> "" Then
+            '    '        If oBP.Currency <> "##" Then
+            '    '            If oMatrix.Columns.Item("U_Currency").Cells.Item(index).Specific.value <> oBP.Currency Then
+            '    '                oApplication.Utilities.Message("Default Currency not matching for ...:" + strCustomer, SAPbouiCOM.BoStatusBarMessageType.smt_Error)
+            '    '                _retVal = False
+            '    '                Exit For
+            '    '            End If
+            '    '        End If
+            '    '    End If
+            '    'End If
+            'Next
         Catch ex As Exception
             Throw ex
         End Try
